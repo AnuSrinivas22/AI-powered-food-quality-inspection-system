@@ -105,6 +105,4 @@ Feel free to fork the repo and submit pull requests.
 Author:
 Anushree S
 
-👨‍💻 Author
 
-Your Name
